@@ -1,9 +1,8 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { Link } from "react-router-dom";
-import { ComputersCanvas } from "./canvas";
 
-import { styles } from "../styles.js";
+import { ComputersCanvas } from "./canvas";
+import { styles } from "../styles";
 
 function Hero() {
     return (
